@@ -1,7 +1,7 @@
 # BS_Thesis
 ## Concerning Levels of Significance - Analysing Methods to Detect and Estimate P-Hacking
 
-Supervisor: [Prof. Dr. Oliver Grothe], Chair of Analytics and Statistics, Institute of Operations Resaerch, Karlsruhe Institute of Technology
+Supervisor: [Prof. Dr. Oliver Grothe](https://as.ior.kit.edu), Chair of Analytics and Statistics, Institute of Operations Resaerch, Karlsruhe Institute of Technology
 
 Abstract: 
 Results from empirical analyses can be forged with ease. Currently, such analyses are based on
