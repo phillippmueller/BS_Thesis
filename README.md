@@ -2,11 +2,9 @@
 ## Concerning Levels of Significance - Analysing Methods to Detect and Estimate P-Hacking
 
 Supervisor: 
-
 [Prof. Dr. Oliver Grothe](https://as.ior.kit.edu/english/index.php), Chair of Analytics and Statistics, [Institute for Operations Research](https://www.ior.kit.edu/english/index.php), Karlsruhe Institute of Technology
 
 Abstract: 
-
 
 Results from empirical analyses can be forged with ease. Currently, such analyses are based on
 the methodology of Null Hypothesis Significance Testing. Too often, conclusions are drawn solely
