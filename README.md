@@ -4,6 +4,9 @@
 **Supervisor:** 
 [Prof. Dr. Oliver Grothe](https://as.ior.kit.edu/english/index.php), Chair of Analytics and Statistics, [Institute for Operations Research](https://www.ior.kit.edu/english/index.php), Karlsruhe Institute of Technology
 
+**Link to Document:**
+https://www.researchgate.net/publication/352906629_Concerning_Levels_of_Significance_-_Analysing_Methods_to_Detect_and_Estimate_P-Hacking
+
 **Abstract:** 
 Results from empirical analyses can be forged with ease. Currently, such analyses are based on
 the methodology of Null Hypothesis Significance Testing. Too often, conclusions are drawn solely
